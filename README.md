@@ -6,7 +6,7 @@ Additionally, the option of rolling the dice using the "Roll" button and the "Bu
 
 
 <p align="center">
-### Classic drag and roll
+Classic drag and roll
 </p>
 
 <p align="center">
