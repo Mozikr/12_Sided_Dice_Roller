@@ -1,4 +1,4 @@
-## 12 Sided Dice Roller
+## 12 Sided Dice Roller :game_die:
 ### Made with C# and Unity Engine
 
 The project presents the mechanism of throwing a twelve-sided board game dice. Every detail of cube physics has been taken care of here. 
