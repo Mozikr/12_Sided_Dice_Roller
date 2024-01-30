@@ -11,9 +11,11 @@ Additionally, the option of rolling the dice using the "Roll" button and the "Bu
 <p align="center">
   <img src="Image/DragAndRoll2.gif" width="700" height="300"/>
 </p>
+### Throw using button
 <p align="center">
   <img src="Image/Roll.gif" width="700" height="300"/>
 </p>
+### Bump presentation
 <p align="center">
   <img src="Image/RollAndBump.gif" width="700" height="300"/>
 </p>
