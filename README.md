@@ -5,14 +5,14 @@ The project presents the mechanism of throwing a twelve-sided board game dice. E
 Additionally, the option of rolling the dice using the "Roll" button and the "Bump" effect if the dice get stuck in any position have been implemented.
 
 <p align="center">
-  <img src="Image/DragAndRoll.gif" width="400" height="400"/>
+  <img src="Image/DragAndRoll.gif" width="900" height="400"/>
 </p>
 <p align="center">
-  <img src="Image/DragAndRoll2.gif" width="400" height="400"/>
+  <img src="Image/DragAndRoll2.gif" width="900" height="400"/>
 </p>
 <p align="center">
-  <img src="Image/Roll.gif" width="400" height="400"/>
+  <img src="Image/Roll.gif" width="900" height="400"/>
 </p>
 <p align="center">
-  <img src="Image/RollAndBump.gif" width="400" height="400"/>
+  <img src="Image/RollAndBump.gif" width="900" height="400"/>
 </p>
