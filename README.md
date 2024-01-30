@@ -6,7 +6,6 @@ Additionally, the option of rolling the dice using the "Roll" button and the "Bu
 
 
 <h2 align="center">Classic drag and roll</h2>
-
 <p align="center">
   <img src="Image/DragAndRoll.gif" width="700" height="300"/>
 </p>
@@ -14,14 +13,12 @@ Additionally, the option of rolling the dice using the "Roll" button and the "Bu
   <img src="Image/DragAndRoll2.gif" width="700" height="300"/>
 </p>
 
-### Throw using button
-
+<h2 align="center">Throw using button</h2>
 <p align="center">
   <img src="Image/Roll.gif" width="700" height="300"/>
 </p>
 
-### Bump presentation
-
+<h2 align="center">Bump</h2>
 <p align="center">
   <img src="Image/RollAndBump.gif" width="700" height="300"/>
 </p>
