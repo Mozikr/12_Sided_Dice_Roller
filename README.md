@@ -7,3 +7,12 @@ Additionally, the option of rolling the dice using the "Roll" button and the "Bu
 <p align="center">
   <img src="Image/DragAndRoll.gif"/>
 </p>
+<p align="center">
+  <img src="Image/DragAndRoll2.gif"/>
+</p>
+<p align="center">
+  <img src="Image/Roll.gif"/>
+</p>
+<p align="center">
+  <img src="Image/RollAndBump.gif"/>
+</p>
